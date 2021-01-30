@@ -14,6 +14,7 @@ Hello, my name is David Beare. I'm a Data Engineer/Scientist with an affinity fo
 
 ### Data Science ###
 [Using Functions to Reduce Preprocessing Workload in Python](https://medium.com/swlh/using-functions-to-reduce-pre-processing-workload-in-python-f08077927c1f)
+
 [Using a Prewrapped Neural Network to Generate Meme-able Tweets](https://github.com/GreatEmuWar/tweet-generator)
 
 ### Data Analytics ###
