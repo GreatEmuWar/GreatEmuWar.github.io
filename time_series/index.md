@@ -6,6 +6,8 @@ description: This is a time series decomposition that I did while in Graduate Sc
 
 These are the files that you will find for the time series decomposition that I perfomed while in a course on competing through Business Analytics.
 
-[Time-Series Decomposition(html)](tsdecomp.html)
+[Time-Series Decomposition(.html)](tsdecomp.html)
 
-[Time-Series Decomposition Notebook(ipynb)](tsdecomp.ipynb)
+[Time-Series Decomposition Notebook(.ipynb)](tsdecomp.ipynb)
+
+[Time-Series Data(.csv)](ConstructionTimeSeriesDataV2.csv)
