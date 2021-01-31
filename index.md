@@ -8,8 +8,7 @@ _An Emu, presumably a veteran of the [Great Emu War](https://www.google.com/sear
 
 
 ## Introduction ##
-Hello, my name is David Beare. I'm a Data Engineer/Scientist with an affinity for dumb historical events, memes and gaming. Please take a look at some of my other projects, and feel free to look at my writing at davidbeare.medium.com.
-
+Hello, my name is David Beare. I'm a Data Engineer/Scientist with an affinity for dumb historical events, memes and gaming. Please take a look at some of my other projects, and feel free to look at my writing.
 
 
 ### Data Science ###
@@ -23,3 +22,11 @@ Hello, my name is David Beare. I'm a Data Engineer/Scientist with an affinity fo
 
 ### Data Engineering ###
 [Three Pandas Functions Every Data Engineer Should Know](https://medium.com/swlh/five-pandas-functions-every-data-engineer-who-uses-python-should-know-c27cbbda927b)
+
+
+### Connect With Me: ###
+
+[Join my network on LinkedIn](linkedin.com/in/david-beare)
+
+[Follow me on Medium](davidbeare.medium.com)
+
