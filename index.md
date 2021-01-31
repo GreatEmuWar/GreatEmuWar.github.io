@@ -18,7 +18,7 @@ Hello, my name is David Beare. I'm a Data Engineer/Scientist with an affinity fo
 [Using a Prewrapped Neural Network to Generate Meme-able Tweets](https://github.com/GreatEmuWar/tweet-generator)
 
 ### Data Analytics ###
-Time Series Decomposition
+[Time Series Decomposition](time_series/index.md)
 
 
 ### Data Engineering ###
